@@ -1,0 +1,419 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"C",
+				"c"
+			],
+			[
+				"walk",
+				"walkcount"
+			],
+			[
+				"wal",
+				"walkcount"
+			],
+			[
+				"wla",
+				"walkcount"
+			],
+			[
+				"r",
+				"r1"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"d",
+				"data"
+			],
+			[
+				"pr",
+				"proceed"
+			],
+			[
+				"l",
+				"l1"
+			],
+			[
+				"L",
+				"l"
+			],
+			[
+				"ioss",
+				"iostream\tstandard header"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"b",
+				"B"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"train",
+				"train_test_split"
+			],
+			[
+				"image",
+				"image_data"
+			],
+			[
+				"iam",
+				"image_data"
+			],
+			[
+				"tesse",
+				"tesseract_cmd"
+			],
+			[
+				"r_",
+				"r_html"
+			],
+			[
+				"v_",
+				"v_save"
+			],
+			[
+				"vie",
+				"videoname"
+			],
+			[
+				"m",
+				"main\tmethod (main)"
+			],
+			[
+				"s",
+				"show"
+			],
+			[
+				"c",
+				"circle"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"sca",
+				"Scanner"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"cont",
+				"count"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"anima",
+				"animation\tproperty"
+			],
+			[
+				"animatio",
+				"animation-name\tproperty"
+			],
+			[
+				"animation",
+				"animation-duration\tproperty"
+			],
+			[
+				"mari",
+				"margin-top\tproperty"
+			],
+			[
+				"trans",
+				"translateX()\ttransform"
+			],
+			[
+				"animati",
+				"animation-name\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"text-al",
+				"text-align-last\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Kite: Python Tutorial"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/coding cpp/strongn.cpp",
+		"/D/coding cpp/1.cpp",
+		"/D/coding cpp/leapyear.cpp",
+		"/D/coding cpp/circle.cpp",
+		"/D/coding cpp/gp.cpp",
+		"/D/project/r.py",
+		"/D/project/hangman.py",
+		"/D/coding/rough.cpp",
+		"/D/coding/Aviroop123-00000000001a37ec.txt",
+		"/C/Users/Siri/AppData/Roaming/Sublime Text 3/Packages/User/CPPin.sublime-build",
+		"/D/coding/rough.py",
+		"/D/coding/hello.py",
+		"/D/coding/bus.py",
+		"/D/coding/peak.py",
+		"/D/coding/string.py",
+		"/D/coding/housesale.py",
+		"/D/coding/plates.py",
+		"/D/coding/gym.py",
+		"/C/Users/Siri/AppData/Roaming/Sublime Text 3/Packages/User/CPP.sublime-build",
+		"/D/python/bg.py",
+		"/D/handwriting/image_handwrite_detection.py",
+		"/D/handwriting/hwriting.py",
+		"/D/op_cv/h.py",
+		"/D/op_cv/pg1.py",
+		"/D/op_cv/t.py",
+		"/D/op_cv/m.py",
+		"/D/op_cv/wh.py",
+		"/D/op_cv/import numpy.core.multiarray",
+		"/D/op_cv/w.py",
+		"/D/op_cv/wb.py",
+		"/D/op_cv/os.py",
+		"/D/op_cv/s.py",
+		"/D/op_cv/drw_line.py",
+		"/D/op_cv/wrt_video.py",
+		"/D/op_cv/wb",
+		"/D/op.py",
+		"/D/op_cv/vwrite_read.py",
+		"/C/Users/Siri/AppData/Roaming/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/D/obj.py",
+		"/D/z.py",
+		"/D/cv.py",
+		"/D/hi.py",
+		"/D/Z.java",
+		"/D/circ.py",
+		"/D/numpy.py",
+		"/D/D.java",
+		"/D/Palindrome.java",
+		"/D/A.java",
+		"/D/G.java",
+		"/D/F.java",
+		"/D/E.java",
+		"/D/C.java",
+		"/D/B.java",
+		"/C/Users/Siri/AppData/Roaming/Sublime Text 3/Packages/User/class A.java",
+		"/C/Users/Siri/AppData/Roaming/Sublime Text 3/Packages/User/text.py",
+		"/C/Users/Siri/AppData/Roaming/Sublime Text 3/Packages/User/import.py",
+		"/C/Users/Siri/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-build",
+		"/C/Users/Siri/AppData/Roaming/Sublime Text 3/Packages/User/newpython3.sublime-build",
+		"/E/python/version.py",
+		"/E/css/inedx.html",
+		"/E/css/style.css",
+		"/E/css/777343-detail1.jpg",
+		"/D/css/style.css",
+		"/D/css/index.html",
+		"/C/Users/Siri/OneDrive/orange/index.html",
+		"/C/Users/Siri/OneDrive/orange/style.css/style.css",
+		"/C/Users/Siri/OneDrive/orange/index.html/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "1st.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
